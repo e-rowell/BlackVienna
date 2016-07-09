@@ -4,7 +4,7 @@
  * @author Ethan Rowell & Nicholas Hays
  *
  */
-public class BlackViennaManin {
+public class BlackViennaMain {
 
 	public static void main(String[] args) {
 		
